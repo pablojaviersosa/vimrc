@@ -1,0 +1,23 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<leader><CR>	/home/pablo/.vimrc	/^map <leader><CR> :TagbarToggle<CR>$/;"	m	language:Vim
+<leader>n	/home/pablo/.vimrc	/^map <leader>n :NERDTreeToggle<CR>$/;"	m	language:Vim
+g:clang_library_path	/home/pablo/.vimrc	/^let g:clang_library_path='\/usr\/lib\/llvm-3.8\/lib\/libclang.so'$/;"	v	language:Vim
+g:clang_use_library	/home/pablo/.vimrc	/^let g:clang_use_library = 1$/;"	v	language:Vim
+g:languagetool_jar	/home/pablo/.vimrc	/^ let g:languagetool_jar ='\/home\/pablo\/Descargas\/LanguageTool-4.1\/languagetool.jar'$/;"	v	language:Vim
+g:languagetool_lang	/home/pablo/.vimrc	/^ let g:languagetool_lang = 'es'$/;"	v	language:Vim
+g:limelight_bop	/home/pablo/.vimrc	/^ let g:limelight_bop = '^\\s'$/;"	v	language:Vim
+g:limelight_conceal_ctermfg	/home/pablo/.vimrc	/^ let g:limelight_conceal_ctermfg = 'gray'$/;"	v	language:Vim
+g:limelight_conceal_ctermfg	/home/pablo/.vimrc	/^ let g:limelight_conceal_ctermfg = 240$/;"	v	language:Vim
+g:limelight_conceal_guifg	/home/pablo/.vimrc	/^ let g:limelight_conceal_guifg = '#777777'$/;"	v	language:Vim
+g:limelight_conceal_guifg	/home/pablo/.vimrc	/^ let g:limelight_conceal_guifg = 'DarkGray'$/;"	v	language:Vim
+g:limelight_default_coefficient	/home/pablo/.vimrc	/^ let g:limelight_default_coefficient = 0.7$/;"	v	language:Vim
+g:limelight_eop	/home/pablo/.vimrc	/^ let g:limelight_eop = '\\ze\\n^\\s'$/;"	v	language:Vim
+g:limelight_paragraph_span	/home/pablo/.vimrc	/^ let g:limelight_paragraph_span = 1$/;"	v	language:Vim
+g:limelight_priority	/home/pablo/.vimrc	/^ let g:limelight_priority = -1$/;"	v	language:Vim
+main	/media/pablo/DATOS/2018/Facultad/SistemasOp/laboratorio-03-pablojaviersosa/ej2.c	/^int main(int argc, char* argv[])$/;"	f	language:C++
+main	/media/pablo/DATOS/2018/Facultad/SistemasOp/laboratorio-03-pablojaviersosa/ej3.c	/^int main(int argc, char* argv[])$/;"	f	language:C++
+mapleader	/home/pablo/.vimrc	/^let mapleader = ","$/;"	v	language:Vim
+MAX_ESCRITURAS	/media/pablo/DATOS/2018/Facultad/SistemasOp/laboratorio-03-pablojaviersosa/ej2.c	4;"	d	language:C++	file:
+NERDTreeWinSize	/home/pablo/.vimrc	/^let NERDTreeWinSize =15$/;"	v	language:Vim
+vim_markdown_preview_github	/home/pablo/.vimrc	/^let vim_markdown_preview_github=1$/;"	v	language:Vim
+vim_markdown_preview_hotkey	/home/pablo/.vimrc	/^let vim_markdown_preview_hotkey='<C-m>'$/;"	v	language:Vim
